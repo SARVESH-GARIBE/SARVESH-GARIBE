@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=SARVESH%20GARIBE&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Systems%20Engineer&descAlignY=58&descColor=8b949e" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=100&lines=SARVESH+GARIBE" />
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+at+the+intersection+of+AI+%26+Systems;Healthcare+Tech+%7C+Mental+Health+Platforms;Full-Stack+%7C+ML+Research+%7C+Open+Source;Turning+real-world+problems+into+software)](https://git.io/typing-svg)
@@ -190,10 +189,6 @@ I'm always open to collaborating on projects that sit at the intersection of **A
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SARVESH-GARIBE&color=58a6ff&style=flat-square&label=Profile+Views)
 
 *Built with precision. Engineered for impact.*
 
