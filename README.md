@@ -9,9 +9,8 @@
 
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarveshgaribe014)
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SarveshCodezzzz)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Solunezz)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SARVESH-GARIBE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff6b6b?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 <br/>
 
