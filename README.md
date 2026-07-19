@@ -25,7 +25,7 @@ class SarveshGaribe:
     def __init__(self):
         self.name        = "Sarvesh Garibe"
         self.role        = "Computer Science Student"
-        self.university  = "Nashik, Maharashtra, India"
+        self.university  = "Amravati, Maharashtra, India"
         self.focus       = ["AI Systems", "Full-Stack Engineering", "Healthcare Tech"]
         self.building    = ["MedFlow 🏥", "MindMate 🌿", "TraviGO ✈️", "SunTrace-AI ☀️"]
         self.philosophy  = "Real-world impact > theoretical complexity"
