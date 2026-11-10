@@ -1,33 +1,40 @@
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="" />
+  <img src="banner.gif" width="70%" alt="" />
 </p>
 
-<p align="center">
-  <img src="header.svg" width="100%" alt="sarvesh garibe" />
-</p>
-
-<h3 align="center">sarvesh garibe</h3>
-<p align="center"><code>full-stack developer</code></p>
+<img src="header.svg" width="100%" alt="sarvesh garibe — full-stack developer" />
 
 <br>
 
-**sarvesh** — final-year computer science student who lives in the linux terminal.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I like building things end to end: APIs in **python** with **fastapi** and **django**, interfaces in **react** and **next.js**, shipped with **docker** and the cloud.
+final-year cse student.
 
-I've picked up a little of everything along the way, from **devops** to **ai/ml**, and I keep sharpening the fundamentals with **data structures & algorithms**.
-
-The goal is simple: write clean code and ship things people actually use.
+i build full-stack apps — **python**, **fastapi** and **django** on the back, **react** and **next.js** on the front, **docker** to ship it.
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/SARVESH-GARIBE"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  &nbsp;
-  <a href="mailto:sarveshgaribe0.9@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-</p>
+**now**<br>
+→ going deeper into cloud & devops<br>
+→ experimenting with ai/ml<br>
+→ grinding dsa
 
-<h4 align="center">stack</h4>
+<br>
+
+<a href="https://github.com/SARVESH-GARIBE?tab=repositories">projects</a> &nbsp;·&nbsp;
+<a href="mailto:sarveshgaribe0.9@gmail.com">mail</a>
+
+</td>
+<td width="42%" align="center">
+  <img src="glitch.gif" width="100%" alt="" />
+</td>
+</tr>
+</table>
+
+<br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,js,ts,react,nextjs,nodejs,tailwind&perline=9" />
   <br>
@@ -35,14 +42,6 @@ The goal is simple: write clean code and ship things people actually use.
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SARVESH-GARIBE&theme=github-dark-blue&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SARVESH-GARIBE&bg_color=0d1117&color=c9d1d9&line=7ee787&point=e6edf3&area=true&area_color=7ee787&hide_border=true" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SARVESH-GARIBE/SARVESH-GARIBE/output/github-snake-dark.svg" />
