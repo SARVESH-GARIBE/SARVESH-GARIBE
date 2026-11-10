@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="banner.jpg" width="100%" alt="" />
+</p>
+
+<p align="center">
   <img src="header.svg" width="100%" alt="sarvesh garibe" />
 </p>
 
