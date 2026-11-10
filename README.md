@@ -2,7 +2,7 @@
   <img src="banner.gif" width="70%" alt="" />
 </p>
 
-<img src="header.svg" width="100%" alt="sarvesh garibe — full-stack developer" />
+<img src="header.svg" width="100%" alt="sarvesh garibe - full-stack developer" />
 
 <br>
 
@@ -12,7 +12,7 @@
 
 final-year cse student.
 
-i build full-stack apps — **python**, **fastapi** and **django** on the back, **react** and **next.js** on the front, **docker** to ship it.
+I build full-stack apps - **python**, **fastapi** and **django** on the back, **react** and **next.js** on the front, **docker** to ship it.
 
 <br>
 
