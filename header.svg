@@ -39,10 +39,10 @@
     <rect x="0" y="0" width="820" height="280" fill="#0d1117" opacity=".55"/>
   </g>
 
-  <text x="36" y="40" class="dim">~/sarvesh</text>
+  <text x="36" y="40" class="dim">~/dev</text>
   <text x="784" y="40" class="dim" text-anchor="end">UTC+05:30</text>
 
-  <text x="34" y="100" class="name">SARVESH GARIBE</text>
+  <text x="34" y="100" class="name">BUILD. SHIP. REPEAT.</text>
 
   <text x="36" y="134" class="gt">&gt;</text>
   <text x="56" y="134" class="role r1">full-stack developer<tspan class="cur"> _</tspan></text>
@@ -64,7 +64,7 @@
     <rect x="0" y="246" width="820" height="34" class="bar"/>
     <rect x="0" y="246" width="96" height="34" class="seg"/>
   </g>
-  <text x="18" y="267" class="segt">SARVESH</text>
+  <text x="18" y="267" class="segt">NORMAL</text>
   <text x="112" y="267" class="st">0:zsh*   1:code   2:docker</text>
   <circle cx="676" cy="263" r="4" class="on"/>
   <text x="688" y="267" class="st">open to work</text>
